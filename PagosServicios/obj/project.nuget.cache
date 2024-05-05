@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ogdlWqBlA9inNJQxQvYAIKAwJ6xsuCRnPq/hte2f5korRFz+vpwKqhlSYWlRyUaoIUmHCF6t3Buyolzlf35og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matel\\OneDrive\\Documentos\\Universidad\\2024\\Programación I\\Entregas\\practica-clase-herencia-Lorenzo-Mateo\\WireTech\\PagosServicios\\BibliotecaServicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\matel\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\matel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

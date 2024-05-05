@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WireTech/1.0.0": {
+        "dependencies": {
+          "WireTechService": "1.0.0"
+        },
+        "runtime": {
+          "WireTech.dll": {}
+        }
+      },
+      "WireTechService/1.0.0": {
+        "runtime": {
+          "WireTechService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WireTech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WireTechService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

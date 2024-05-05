@@ -1,0 +1,22 @@
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\bin\Debug\net7.0\WireTechService.deps.json
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\bin\Debug\net7.0\WireTechService.dll
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\bin\Debug\net7.0\WireTechService.pdb
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.AssemblyInfoInputs.cache
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.AssemblyInfo.cs
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.csproj.CoreCompileInputs.cache
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.dll
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\obj\Debug\net7.0\refint\WireTechService.dll
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.pdb
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Clases\Práctica 2\WireTech\WireTechService\obj\Debug\net7.0\ref\WireTechService.dll
+C:\Users\Emaa\Downloads\WireTech\WireTechService\bin\Debug\net7.0\WireTechService.deps.json
+C:\Users\Emaa\Downloads\WireTech\WireTechService\bin\Debug\net7.0\WireTechService.dll
+C:\Users\Emaa\Downloads\WireTech\WireTechService\bin\Debug\net7.0\WireTechService.pdb
+C:\Users\Emaa\Downloads\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emaa\Downloads\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.AssemblyInfoInputs.cache
+C:\Users\Emaa\Downloads\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.AssemblyInfo.cs
+C:\Users\Emaa\Downloads\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.csproj.CoreCompileInputs.cache
+C:\Users\Emaa\Downloads\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.dll
+C:\Users\Emaa\Downloads\WireTech\WireTechService\obj\Debug\net7.0\refint\WireTechService.dll
+C:\Users\Emaa\Downloads\WireTech\WireTechService\obj\Debug\net7.0\WireTechService.pdb
+C:\Users\Emaa\Downloads\WireTech\WireTechService\obj\Debug\net7.0\ref\WireTechService.dll

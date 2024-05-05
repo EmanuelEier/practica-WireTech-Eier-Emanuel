@@ -1,0 +1,12 @@
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\bin\Debug\net7.0\BibliotecaServicios.deps.json
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\bin\Debug\net7.0\BibliotecaServicios.dll
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\bin\Debug\net7.0\BibliotecaServicios.pdb
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\BibliotecaServicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\BibliotecaServicios.AssemblyInfoInputs.cache
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\BibliotecaServicios.AssemblyInfo.cs
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\BibliotecaServicios.csproj.CoreCompileInputs.cache
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\BibliotecaServicios.sourcelink.json
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\BibliotecaServicios.dll
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\refint\BibliotecaServicios.dll
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\BibliotecaServicios.pdb
+C:\Users\matel\OneDrive\Documentos\Universidad\2024\Programación I\Entregas\practica-clase-herencia-Lorenzo-Mateo\WireTech\PagosServicios\obj\Debug\net7.0\ref\BibliotecaServicios.dll
